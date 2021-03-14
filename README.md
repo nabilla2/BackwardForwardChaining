@@ -1,3 +1,11 @@
+# Tugas 1
+Nama : Nabilla
+NPM : 1184075
+Kelas : D4 Teknik Informatika 3A
+Mata Kuliah : Sistem Pakar
+Dosen Pengampu : M. Nurkamal Fauzan, S.T., M.T.
+
+
 # BackwardForwardChaining
 
 Backward and Forward Chaining algorithms implemented in Rust. The example solves the following problem :
